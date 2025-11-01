@@ -1,4 +1,4 @@
-package com.example.productsShoppping;
+package com.example.productsShoppping.entity;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
